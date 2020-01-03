@@ -1,0 +1,8 @@
+{
+  "compilerOptions": {
+      "target": "esnext",
+      "module": "ES2015",
+      "watch": true,
+      "lib": ["DOM", "ES2017"]
+  }
+}
